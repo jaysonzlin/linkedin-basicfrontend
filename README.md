@@ -2,4 +2,4 @@
 
 A basic user interface based on LinkedIn's made in React
 
-<img src="linkedin-basicfrontend.jpg" width = '600'> 
+<img src="basiclinkedin.jpg" width = '600'> 
